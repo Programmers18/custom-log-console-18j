@@ -1,6 +1,6 @@
 {
   "name": "consola-log-personalizados-18j",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log para consola personalizadas por Jonny D.",
   "main": "index.js",
   "scripts": {
