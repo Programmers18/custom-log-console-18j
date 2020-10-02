@@ -1,7 +1,7 @@
 {
-  "name": "custom-console-log-18j",
+  "name": "console-log-custom-18j",
   "version": "1.0.0",
-  "description": "Log para consola personalizada",
+  "description": "Log para consola personalizadas",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
